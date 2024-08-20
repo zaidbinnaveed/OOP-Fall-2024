@@ -21,11 +21,11 @@ int main()
 	
 	if(prime==1)
 	{
-	    cout<<"Entered number is not a prime ";
+	    cout <<n<< " is not a prime";
 	}
 	else if(prime==0)
 	{
-	    cout<<"Entered number is a prime ";
+	    cout <<n<< " is a prime";
 	}
 	return 0;
 }
