@@ -36,6 +36,7 @@ int main() {
     WaterBottle z1;
     z1.getdata();
     z1.displaydata();
+    cout<<"\n";
     cout << "Do you want to update the quantity of water (1 for yes)(2 for no) : ";
     cin >> choice;
     if (choice == 1){
